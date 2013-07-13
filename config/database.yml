@@ -5,6 +5,7 @@ development:
   database: cocoon_demo
   username: root
   password: root
+  host: localhost
   pool: 5
   timeout: 5000
 
