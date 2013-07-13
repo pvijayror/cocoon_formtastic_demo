@@ -20,7 +20,7 @@ gem 'sqlite3-ruby', :require => 'sqlite3'
 gem 'rails3-generators'
 
 gem "bson_ext"
-gem "haml"
+gem "haml", "~> 3.1.4"
 gem "haml-rails"
 gem "jquery-rails"
 
